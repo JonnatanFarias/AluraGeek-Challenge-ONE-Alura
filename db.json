@@ -1,0 +1,104 @@
+{
+  "produtos": [
+    {
+      "name": "Boneco do Star Wars",
+      "imageUrl": "https://cdn.awsli.com.br/600x700/968/968439/produto/103830846/ddd43723a2.jpg",
+      "price": "R$ 100,00",
+      "id": 1,
+      "alt": "Product",
+      "section": "starWars",
+      "description": "Teste"
+    },
+    {
+      "name": "Baby yoda",
+      "imageUrl": "https://m.media-amazon.com/images/I/81qdH1ZPgML._AC_SX679_.jpg",
+      "price": "R$ 522,00",
+      "id": 2,
+      "alt": "Product",
+      "section": "starWars",
+      "description": "Teste"
+    },
+    {
+      "name": "Darth Vader",
+      "imageUrl": "https://cdn.awsli.com.br/800x800/2437/2437567/produto/161499544/1b54e0051b.jpg",
+      "price": "R$ 99,00",
+      "id": 3,
+      "alt": "Product",
+      "section": "starWars",
+      "description": "Teste"
+    },
+    {
+      "name": "Yoda",
+      "imageUrl": "https://static3.tcdn.com.br/img/img_prod/460977/boneco_baby_yoda_the_child_the_mandalorian_star_wars_30cm_life_size_disney_mattel_53241_1_20201211174403.jpg",
+      "price": "R$ 200,00",
+      "id": 4,
+      "alt": "Product",
+      "section": "starWars",
+      "description": "Teste"
+    },
+    {
+      "imageUrl": "https://opiniaobomvaleapena.com.br/imagens/boneco-star-wars-stormtrooper-black-series-6-quot-hasbro.png",
+      "section": "starWars",
+      "name": "Storm trooper",
+      "price": "R$ 258,50",
+      "description": "Storm trooper de primeira ordem: as unidades de infantaria da primeira ordem são treinadas desde o nascimento, recebem designações de unidade em vez de nomes e são alimentadas com uma dieta constante de propaganda de primeira ordem para garantir lealdade absolutaStar Wars.",
+      "id": 5
+    },
+    {
+      "imageUrl": "https://cdn.awsli.com.br/600x450/1919/1919257/produto/130225667/01df7cc858.jpg",
+      "section": "consoles",
+      "name": "Console Xbox Series X 1tb SSD",
+      "price": "R$ 4.635,41",
+      "description": "O Xbox mais poderoso do mundo está disponível em uma versão especial premium limitada. Inicie sua maior aventura com o Xbox Series X e a edição premium do Forza Horizon 5. Explore as paisagens do mundo aberto vibrante e em constante evolução do México nos melhores carros do mundo com 12 teraflops de poder de processamento gráfico bruto, DirectX Ray Tracing, um SSD personalizado e jogos em 4K. Potencialize sua aventura com a edição premium do Forza Horizon 5, totalmente carregada com o Forza Horizon 5 e complementos, incluindo a expansão Hot Wheels, o pacote de boas-vindas, uma assinatura VIP e o passe de carros, além de uma segunda expansão quando estiver disponível, tudo no console Xbox mais rápido e poderoso de todos os tempos. Aproveite ao máximo os recursos da Xbox Velocity Architecture, como o Quick Resume, tempos de carregamento ultrarrápidos e jogabilidade ilimitada.",
+      "id": 6
+    },
+    {
+      "imageUrl": "https://a-static.mlcdn.com.br/800x560/playstation-5-2022-825gb-1-controle-branco-sony-com-god-of-war-ragnarok/magazineluiza/236527400/113ceec7147a67306563bcca96d3a5cd.jpg",
+      "section": "consoles",
+      "name": "PlayStation 5 2022 825GB",
+      "price": "R$ 4.049,10",
+      "description": "PlayStation 5 2022 825GB 1 Controle Branco Sony\nPara você que é fanático por games, jogar não tem limites! A Sony apresenta o PlayStation 5 2022 na cor branca. Ele tem SSD com 825GB de armazenamento, 1 controle Dualsense e o jogo God of War Ragnarok instalado. O PlayStation 5 oferece novas possibilidades de jogabilidade que você nunca imaginou. Reproduza jogos para PS5 e PS4 em Blu-ray Disc. Além disso, você também pode baixar jogos digitais para PS5 e PS4 pela PlayStation Store. Experimente o carregamento extremamente rápido do SSD de ultra-velocidade, uma imersão mais profunda com suporte à resposta tátil, gatilhos adaptáveis e áudio 3D. Além de uma geração totalmente nova de jogos incríveis PlayStation. Na velocidade da luz: Domine o poder das CPU e GPU personalizadas e do SSD com E/S integradas que redefinem as regras do que o console PlayStation pode fazer. Jogos deslumbrantes: Maravilhe-se com os gráficos incríveis e experimente os recursos do novo PS5. Imersão de tirar o fôlego: Descubra uma experiência de jogos ainda mais profunda com a ajuda da resposta tátil, dos gatilhos adaptáveis e da tecnologia de áudio 3D.",
+      "id": 7
+    },
+    {
+      "imageUrl": "https://images.kabum.com.br/produtos/fotos/378411/processador-amd-ryzen-9-7950x-5-7ghz-max-turbo-cache-80mb-am5-16-nucleos-video-integrado-100-100000514wof_1662132759_gg.jpg",
+      "section": "diversos",
+      "name": "Processador AMD Ryzen 9",
+      "price": "R$ 3.759,99",
+      "description": "Processador AMD Ryzen 9 7950X, 5.7GHz Max Turbo, Cache 80MB, AM5, 16 Núcleos, Vídeo Integrado\n \n\nBem-vindo à nova era de desempenho. O AMD Ryzen 9 7950X traz a maior velocidade para gamers e criadores com poder puro para enfrentar qualquer jogo ou fluxo de trabalho no playground digital. O processador para PC mais avançado do mundo para gamers.\n\nMude a Forma como Você Joga\nQuando seu PC tem o processador para desktop mais avançado do mundo para gamers, você pode se concentrar no que realmente importa: ser vitorioso no campo de batalha. Esteja você jogando os títulos mais recentes ou revisitando um clássico, os processadores AMD Ryzen são uma potência de jogos com núcleos de alto desempenho. Com 16 núcleos, 32 threads, aumento de Clock de Max Boost de até 5,7 GHz e até 80MB de cache, um desempenho revolucionário.",
+      "id": 8
+    },
+    {
+      "imageUrl": "https://storage.geralgeek.com.br/images/venda/Copo-termico-Star-Wars-the-force---produto-oficial--61f4307b616eb.webp",
+      "section": "starWars",
+      "name": "Copo Termico Star Wars",
+      "price": "R$ 69,90",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in orci pharetra turpis suscipit cursus. In luctus scelerisque aliquet. Fusce vel volutpat nulla. Aenean fermentum diam nec sem dignissim pretium. Nullam accumsan a ex eu pharetra. Aliquam quis velit et diam semper consectetur. Etiam id eleifend tellus. Sed ultricies ornare pulvinar. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "id": 9
+    },
+    {
+      "imageUrl": "https://a-static.mlcdn.com.br/800x560/nintendo-switch-32gb-1-par-joy-con-mario-kart-8-deluxe-3-meses-de-nintendo-online/magazineluiza/235767500/321e5d4e0722efbfa89bb30940613ca1.jpg",
+      "section": "consoles",
+      "name": "Nintendo Switch 32GB",
+      "price": "R$ 2.069,10",
+      "description": "Nintendo Switch 32GB 1 Par Joy-con + Mario Kart 8\nConheça o novo membro vibrante da família Nintendo Switch. Jogue em casa na TV ou em qualquer lugar com uma tela LED vibrante de 6,2\" com o console Nintendo Switch Modelo HBDSKABL2 preto. Além de uma nova tela com cores vivas e contraste nítido, ele inclui o jogo Mario Kart 8 Deluxe, 3 meses Nintendo Switch Online, 2 controles Joy-Con nas cores azul e vermelho neon, um amplo acessório de suporte ajustável que permite ângulos de visualização mais confortáveis, HD com 32GB de armazenamento interno e áudio aprimorado nos modos portátil e semi portátil usando os alto-falantes do console. Em casa, o console fica na base do Nintendo Switch, que permite a você jogar com amigos e familiares usando uma televisão, no conforto da sua sala. Ao retirar o console de sua base, ele passa a usar o modo portátil instantaneamente, e a mesma ótima experiência de jogo da sua casa pode ser levada aonde você for. A portabilidade do aparelho é reforçada pela tela, que exibe jogabilidade intensa e em alta definição no parque, avião, carro ou na casa de um amigo.",
+      "id": 11
+    },
+    {
+      "imageUrl": "https://shopinfo.vteximg.com.br/arquivos/ids/1419532-400-400/1.png?v=638220088373470000",
+      "section": "diversos",
+      "name": "Pc Gamer Intel i5",
+      "price": "R$ 3.899,31",
+      "description": "Pc Gamer Intel i5 10400F 16GB (RTX 3050 8GB) SSD 240GB 600W 80 Plus, Neologic",
+      "id": 12
+    },
+    {
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSEwubKS2R1w9lZYzZDiHHHItqCUCJhe4tx_cS07PcF0ECkkCsMdgr2xRnkXOh9grtIziSd0hnAgEqvF8105_7X6Qqbe_1aWOSkXbx6A1KL&usqp=CAE",
+      "section": "diversos",
+      "name": "Forza Motorsport 7",
+      "price": "R$ 29 , 99",
+      "description": "Forza Motorsport 7 Motorsport Standard Edition Microsoft Xbox One Digital.\n\nCom este jogo Forza, você desfrutará de horas de diversão e novos desafios que lhe permitirão melhorar como jogador.\n\nInteraja com outros jogadores\nVocê poderá desfrutar de uma experiência incomparável, pois permite que você jogue com seus amigos e compartilhar momentos inesquecíveis.\n\nDiversão sem fronteiras\nVocê será capaz de compartilhar cada jogo com pessoas de todo o mundo, pois é possível conectar-se de maneira online.",
+      "id": 13
+    }
+  ]
+}
