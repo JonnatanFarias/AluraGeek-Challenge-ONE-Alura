@@ -7,7 +7,7 @@ export const novoProduto = (name, id, imageUrl, price) => {
       <img class="imgProduto" src="${imageUrl}">
       <h3 class="nomeProduto">${name}</h3>
       <span class="valorProduto">${price}</span>
-      <a class="verProduto" href="../pages/produto.html?id=${id}">Ver produto</a>
+      <a class="verProduto" href="./pages/produto.html?id=${id}">Ver produto</a>
     </div>`;
 
   card.innerHTML = conteudo;
