@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produtos</title>
+    <link rel="icon" type="image/x-icon" href="/imgs/controle.ico">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <header>
+        <div class="navbar">
+            <div class="container-Nav">
+               <a href="../index.html"><img src="../imgs/Logo.png" alt="Logo"></a> 
+                <div class="campoPesquisa">
+                    <input type="text" placeholder="O que deseja encontrar?" name="" id="pesquisa">
+                    <img src="../imgs/Lupa.png" alt="Lupa">
+                </div>
+            </div>
+            <button>Login</button>
+        </div>
+    </header>
+    <main>
+        <div class="categoria">
+            <div class="topo-Categoria">
+                <h1>Todos os produtos</h1>
+                <a href="../pages/adicionarProduto.html"><button id="btnAddProd" class="buttonAzul bi-plus-lg"> Adicionar Produto</button></a>
+            </div>
+            <div class="containerCategoria">
+                <!--TODOS OS PRODUTOS AQUI-->
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="informacoes">
+            <div class="containerInformacoes">
+                <div class="informacoes-Logo">
+                    <img src="../imgs/Logo.png" alt="Logo">
+                </div>
+                <div class="informacoes-Sobre">
+                    <span>Quem somos nós</span>
+                    <span>Politica de privacidade</span>
+                    <span>Programa fidelidade</span>
+                    <span>Nossa lojas</span>
+                    <span>Quero ser franqueado</span>
+                    <span>Anuncie aqui</span>
+                </div>
+                <div class="informacoes-Faq">
+                    <h4>Fale conosco</h4>
+                    <form>
+                        <div class="campos">
+                            <input type="text" required>
+                            <span>Nome</span>
+                        </div>
+                        <div class="campos">
+                            <textarea name="" id="" cols="30" rows="10" required></textarea>
+                            <span>Escreva sua mensagem</span>
+                        </div>
+                    </form>
+                    <button class="buttonAzul">Enviar mensagem</button>
+                </div>
+            </div>
+        </div>
+        <div class="rodape">
+            <span>Desenvolvido por Jonnatan Farias</span>
+            <span>2023</span>
+        </div>
+    </footer>
+    <script src="../services/produtos-services.js" type="module"></script>
+    <script src="../controllers/todos-os-produtos.js" type="module"></script>
+</body>
+
+</html>
