@@ -13,7 +13,7 @@ btn.addEventListener("click",(evento)=>{
 
     produtosServices.criaProdutos(url,categoria,nomeProdut,preco,descricao)
     .then(resposta=>{
-        window.location.href = "./index.html"
+        window.location.href = "index.html"
         console.log(resposta)
     }).catch(error=>{
         console.log(error)
